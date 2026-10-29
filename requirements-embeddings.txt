@@ -1,0 +1,2 @@
+# Optional but recommended: semantic embeddings (better retrieval than TF-IDF)
+sentence-transformers>=3.0

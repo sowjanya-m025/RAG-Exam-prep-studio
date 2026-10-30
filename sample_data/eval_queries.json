@@ -1,0 +1,8 @@
+[
+  {"query": "what is overfitting and how to reduce it", "expect": "overfitting"},
+  {"query": "role of the learning rate", "expect": "learning rate"},
+  {"query": "difference between precision and recall", "expect": "precision"},
+  {"query": "what is labeled data in supervised learning", "expect": "labeled data"},
+  {"query": "how are neural networks trained", "expect": "backpropagation"},
+  {"query": "k-means clustering", "expect": "centroids"}
+]
